@@ -1,0 +1,20 @@
+//COLORS
+$green-d: #385644;
+$green-m: #6C733D;
+$black: #202426;
+$grey: #F8F9FF;
+$white: #F2F2F2;
+
+$color-primary: $green-d;
+$color-secondary: $green-m;
+$color-black: $black;
+$color-grey: $grey;
+$color-white: $white;
+
+//FONTS
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+// BREAKPOINTS
+$small: 640px;
+$medium: 768px;
+$large: 1024px;
